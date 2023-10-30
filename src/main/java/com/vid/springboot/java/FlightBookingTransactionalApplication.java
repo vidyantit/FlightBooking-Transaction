@@ -29,7 +29,7 @@ public class FlightBookingTransactionalApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(FlightBookingTransactionalApplication.class, args);
-		System.out.println("Helllo");
+		System.out.println("Helllo")
 	}
 
 }
